@@ -21,7 +21,7 @@ function App() {
       try {
         console.log("Fetching data from IPFS");
 
-        const ipfsHash: string = "Qmcw111vvxnrwXjFft5dpj1dXJD4Lr1TX26qPLFXt9ggTY";
+        const ipfsHash: string = "QmdunEALNmHCXSuXFp3pNwRmQbkgAEnEnnukCb3LPEWivo";
         const response: Response = await fetch("https://ipfs.io/ipfs/" + ipfsHash);
         const data: IpfsContentFile = await response.json();
 
