@@ -1,17 +1,17 @@
 {
     "accountAssociation": {
       "header": "eyJmaWQiOjkwODUxNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEVlODZjMDBFYmU1Njk1NGMxMDJlQTIwNzQ1NjZhZGEwQzIzNTU2RmIifQ",
-      "payload": "eyJkb21haW4iOiJza2VsZXRvbi1mYXJjYXN0ZXItZnJhbWUudmVyY2VsLmFwcCJ9",
-      "signature": "MHg2ZTQwYzZlZjBlMDcwN2Y2YmYyZDA0NmJlMTg0ZTU2ODg2MGRmYzFhN2VjNzNhMDA2NWQyYzA2MDBkNjUyN2ZlMDMxYWMwZTRjNDMxMjQ3MzQ4YjFlZmM1OWYyNDNkMDdjNWE0YzdhZmRiNGFiZTExMWY4NWNjNDJhYmY1NmEwNjFj"
+      "payload": "eyJkb21haW4iOiJlcGljLWFueXZvaWQtZXRoLnZlcmNlbC5hcHAifQ",
+      "signature": "MHgzMGVmM2FjMTg2ZDY0Yzc3ODM0MDQ0MWI0NjhjZTg4NjlkOTA0ZGZkYzMxZWFkNDM1MDJlMTM1YzZiN2IxNWFmNGRiZWQ4Zjc3YmIxZWRmYTQyNjhkNjNlMWE5OWY3YjViMmMwNGEyZGYwN2Y0NzE3ZWVhYjdkZDMzODRkZGNhYjFj"
     },
     "frame": {
       "version": "1",
-      "name": "Farcaster Skeleton Frame",
-      "iconUrl": "https://skeleton-farcaster-frame.vercel.app/main.png",
-      "homeUrl": "https://skeleton-farcaster-frame.vercel.app",
-      "imageUrl": "https://skeleton-farcaster-frame.vercel.app/main.png",
+      "name": "EPIC Earth",
+      "iconUrl": "https://epic-anyvoid-eth.vercel.app/main.png",
+      "homeUrl": "https://epic-anyvoid-eth.vercel.app",
+      "imageUrl": "https://epic-anyvoid-eth.vercel.app/main.png",
       "buttonTitle": "Check this out",
-      "splashImageUrl": "https://skeleton-farcaster-frame.vercel.app/splash.png",
+      "splashImageUrl": "https://epic-anyvoid-eth.vercel.app/splash.png",
       "splashBackgroundColor": "#eeccff"
     }
   }
