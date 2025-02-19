@@ -1,0 +1,18 @@
+{
+    "accountAssociation": {
+      "header": "eyJmaWQiOjkwODUxNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEVlODZjMDBFYmU1Njk1NGMxMDJlQTIwNzQ1NjZhZGEwQzIzNTU2RmIifQ",
+      "payload": "eyJkb21haW4iOiJza2VsZXRvbi1mYXJjYXN0ZXItZnJhbWUudmVyY2VsLmFwcCJ9",
+      "signature": "MHg2ZTQwYzZlZjBlMDcwN2Y2YmYyZDA0NmJlMTg0ZTU2ODg2MGRmYzFhN2VjNzNhMDA2NWQyYzA2MDBkNjUyN2ZlMDMxYWMwZTRjNDMxMjQ3MzQ4YjFlZmM1OWYyNDNkMDdjNWE0YzdhZmRiNGFiZTExMWY4NWNjNDJhYmY1NmEwNjFj"
+    },
+    "frame": {
+      "version": "1",
+      "name": "Farcaster Skeleton Frame",
+      "iconUrl": "https://skeleton-farcaster-frame.vercel.app/main.png",
+      "homeUrl": "https://skeleton-farcaster-frame.vercel.app",
+      "imageUrl": "https://skeleton-farcaster-frame.vercel.app/main.png",
+      "buttonTitle": "Check this out",
+      "splashImageUrl": "https://skeleton-farcaster-frame.vercel.app/splash.png",
+      "splashBackgroundColor": "#eeccff"
+    }
+  }
+  
